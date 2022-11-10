@@ -13,6 +13,24 @@ SPDX-License-Identifier: CC0-1.0
 
 # Indian food experience
 
+This pages URL (text and QR-Code):
+
+<https://github.com/CalmeGarden/IndianFoodExp20221111#indian-food-experience>
+
+![QR-Code with URL to this place](
+    assets/images/qr_repo_url.png)
+
+<!--
+The above QR-Code is generated with:
+
+```shell
+qrencode \
+    -s 10 \
+    -o assets/images/qr_repo_url.png \
+    'https://github.com/CalmeGarden/IndianFoodExp20221111#indian-food-experience'
+```
+-->
+
 <!--
 
 ## Inspirational phrases for the add
